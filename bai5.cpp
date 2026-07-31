@@ -5,7 +5,7 @@ using namespace std;
 
 void solve(){
 	string s;
-	getline(cin, s);
+	getline(cin, s); // nhập chuỗi có dấu cách
 	stack<int> st;
 	int id_counter = 1;
 	
